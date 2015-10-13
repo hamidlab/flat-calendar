@@ -1,0 +1,5 @@
+!function($){
+
+  $('#cal').calendar();
+
+}(jQuery);
